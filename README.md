@@ -3,7 +3,7 @@
 Portfolio: https://gregfolio.vercel.app/
 
 - 👀 I’m interested in Front-end 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently working with ReactJS
 - 📫 Reach me [Linkedin](https://www.linkedin.com/in/gregori-sabel/)
 
 <!---
