@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @gregori-sabel
 
-Portfolio: https://gregfolio.vercel.app/
+Portfolio: https://gregorisabel.com.br
 
-- 👀 I’m interested in Front-end 
-- 🌱 I’m currently working with ReactJS
+- 👀 I’m interested in having a great time
+- 🌱 I’m currently working with django
 - 📫 Reach me [Linkedin](https://www.linkedin.com/in/gregori-sabel/)
 
 <!---
